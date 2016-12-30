@@ -10,3 +10,6 @@ $fontfile = 'fonts.css';
 ```
 
 The script will do the rest.
+
+#License
+Code copyright by 2016 Mowie and contributors. Code released under GPLv3.
